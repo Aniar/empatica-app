@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Raina/workspace/EmpApp/app/build/intermediates/exploded-aar/EmpApp/empalink-2.0/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="db2692d0630563e0ad39bf453b4ae7c6d74db153">
+        <dex dex="/Users/Raina/workspace/EmpApp/app/build/intermediates/pre-dexed/debug/classes-ff9abd4040a47c0cb687b9820659a299d57003ab.jar" />
+    </item>
+    <item
+        jar="/Users/Raina/workspace/EmpApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/Raina/workspace/EmpApp/app/build/intermediates/pre-dexed/debug/classes-d1eb14900d4c02ee85cc83635a4781f8fbcf0076.jar" />
+    </item>
+    <item
+        jar="/Users/Raina/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/Raina/workspace/EmpApp/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-45e92bb9e90971a54c4ef952251631aa1ba3eab4.jar" />
+    </item>
+    <item
+        jar="/Users/Raina/workspace/EmpApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/Raina/workspace/EmpApp/app/build/intermediates/pre-dexed/debug/classes-7cc14f73b06f9d6ad8ecc1bdbeac03cc84d87766.jar" />
+    </item>
+    <item
+        jar="/Users/Raina/workspace/EmpApp/app/build/intermediates/exploded-aar/com.android.volley/volley/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="054a28ee461bf327832cf79b9ac4a3c608ea2cd4">
+        <dex dex="/Users/Raina/workspace/EmpApp/app/build/intermediates/pre-dexed/debug/classes-ed098699ada79b22b7df7cf0083724b139b77e82.jar" />
+    </item>
+    <item
+        jar="/Users/Raina/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.6/a845a88238be0b5be9d238652c1bc0605ef91f52/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/Users/Raina/workspace/EmpApp/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-64f8029e964ba3883f79b78d68b611e40c1d2468.jar" />
+    </item>
+    <item
+        jar="/Users/Raina/workspace/EmpApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/Raina/workspace/EmpApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-652b613d34d86b2237d56a21221e9447e64d5eca.jar" />
+    </item>
+
+</items>
